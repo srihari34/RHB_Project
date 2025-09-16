@@ -1,0 +1,44 @@
+package base;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.time.Duration;
+import java.util.Properties;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.BeforeTest;
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class Base_Class {
+	
+	private static  Logger log = LogManager.getLogger(Base_Class.class);
+	Properties prop = new Properties();
+	
+	public static WebDriver obj;
+	
+	
+	@BeforeTest
+	public void Launch_Browser() throws IOException
+	{
+		log.info("Application Started");
+		log.info("===================");
+		WebDriverManager.firefoxdriver().setup();
+    	obj = new FirefoxDriver();
+    	obj.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+    	log.info("FireFoxDriver Object is Created  " + obj);
+    	log.info("Browser Got Opened");
+    	//old path
+    	//FileInputStream fis = new FileInputStream("D:\\Backup\\Projects\\rhb.com\\src\\test\\resources\\Utilites\\Test_Data.properties");
+    	//New Path Added User dir
+    	String userpath = System.getProperty("user.dir");
+    	System.out.println(userpath);
+    	FileInputStream fis = new FileInputStream(userpath + "\\src\\test\\resources\\Utilites\\Test_Data.properties");
+    	prop.load(fis);
+    	String url = prop.getProperty("Url");
+		obj.get(url);
+		log.info("url Called  " + url);
+		log.info("Tear Up is Done");
+	}
+
+}

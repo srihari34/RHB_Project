@@ -1,0 +1,155 @@
+2025-01-07 09:37:47 INFO  [main] Base_Class - Application Started
+2025-01-07 09:37:47 INFO  [main] Base_Class - ===================
+2025-01-07 09:37:52 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (215916ac-e189-4b72-9f29-c8c529beaa8c)
+2025-01-07 09:37:52 INFO  [main] Base_Class - Browser Got Opened
+2025-01-07 09:37:52 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-01-07 09:37:52 INFO  [main] Base_Class - Tear Up is Done
+2025-01-07 09:37:53 INFO  [main] Login - Login Test Cases Started
+2025-01-07 09:37:53 INFO  [main] Login - Login_Page Object Created
+2025-01-07 09:37:53 INFO  [main] Login - Login Page Method call
+2025-01-07 09:37:53 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:37:53 INFO  [main] Login_page - Entered UserName is :Approver
+2025-01-07 09:37:53 INFO  [main] Login_page - Password Entered
+2025-01-07 09:37:54 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:37:54 INFO  [main] Login_page - Login SuccessFull
+2025-01-07 09:37:54 INFO  [main] Login - Login Test Completed Sucessfully
+2025-01-07 09:37:55 INFO  [main] Login_Test_Data - This is logout method for Main User
+2025-01-07 09:37:55 INFO  [main] Login_page - This is logout method
+2025-01-07 09:37:55 INFO  [main] Login_page - Is ProfileDropdown displayed? true
+2025-01-07 09:37:55 INFO  [main] Login_page - Is ProfileDropdown enabled? true
+2025-01-07 09:37:55 INFO  [main] Login_page - Approver Approver
+2025-01-07 09:37:55 INFO  [main] Login_page - Logout Success
+2025-01-07 09:37:55 INFO  [main] Login_Test_Data - Logout Method Called
+2025-01-07 09:37:55 INFO  [main] Login_Test_Data - Main User Logged Out Success
+2025-01-07 09:37:55 INFO  [main] Login_Test_Data - Login Test Started
+2025-01-07 09:37:55 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver1
+2025-01-07 09:37:55 INFO  [main] Login_Test_Data - Attempting login for user: Approver1
+2025-01-07 09:37:55 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:37:55 INFO  [main] Login_page - Entered UserName is :Approver1
+2025-01-07 09:37:55 INFO  [main] Login_page - Password Entered
+2025-01-07 09:37:55 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:37:58 INFO  [main] Login_page - Login Failed
+2025-01-07 09:37:58 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:37:58 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:37:58 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:37:58 INFO  [main] Login_Test_Data - Expected error message matched for user: Approver1
+2025-01-07 09:37:58 INFO  [main] Login_Test_Data - Invalid user name or password or Deactivated.
+2025-01-07 09:37:58 INFO  [main] Login_Test_Data - Login Test Started
+2025-01-07 09:37:58 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver
+2025-01-07 09:37:58 INFO  [main] Login_Test_Data - Attempting login for user: Approver
+2025-01-07 09:37:58 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:37:58 INFO  [main] Login_page - Entered UserName is :Approver
+2025-01-07 09:37:58 INFO  [main] Login_page - Password Entered
+2025-01-07 09:37:59 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:02 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:02 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:02 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:02 INFO  [main] Login_page - Invalid user name or password.
+2025-01-07 09:38:02 INFO  [main] Login_Test_Data - Expected error message matched for user: Approver
+2025-01-07 09:38:02 INFO  [main] Login_Test_Data - Invalid user name or password.
+2025-01-07 09:38:02 INFO  [main] Login_Test_Data - Login Test Started
+2025-01-07 09:38:02 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver1
+2025-01-07 09:38:02 INFO  [main] Login_Test_Data - Attempting login for user: Approver1
+2025-01-07 09:38:02 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:02 INFO  [main] Login_page - Entered UserName is :Approver1
+2025-01-07 09:38:02 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:02 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:05 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:05 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:05 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:05 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:05 INFO  [main] Login_Test_Data - Expected error message matched for user: Approver1
+2025-01-07 09:38:05 INFO  [main] Login_Test_Data - Invalid user name or password or Deactivated.
+2025-01-07 09:38:05 INFO  [main] Login_Test_Data - Login Test Started
+2025-01-07 09:38:05 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver
+2025-01-07 09:38:05 INFO  [main] Login_Test_Data - Attempting login for user: Approver
+2025-01-07 09:38:05 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:05 INFO  [main] Login_page - Entered UserName is :Approver
+2025-01-07 09:38:05 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:06 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:06 INFO  [main] Login_page - Login SuccessFull
+2025-01-07 09:38:15 INFO  [main] Login_Test_Data - Login Success for User :Approver
+2025-01-07 09:38:18 INFO  [main] Login_page - This is logout method
+2025-01-07 09:38:18 INFO  [main] Login_page - Is ProfileDropdown displayed? true
+2025-01-07 09:38:18 INFO  [main] Login_page - Is ProfileDropdown enabled? true
+2025-01-07 09:38:18 INFO  [main] Login_page - Approver Approver
+2025-01-07 09:38:18 INFO  [main] Login_page - Logout Success
+2025-01-07 09:38:18 INFO  [main] Login_Test_Data - Test User Logged Out Success
+2025-01-07 09:38:19 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-01-07 09:38:19 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-01-07 09:38:19 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-01-07 09:38:19 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:19 INFO  [main] Login_page - Entered UserName is :Check
+2025-01-07 09:38:19 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:19 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:22 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:22 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-01-07 09:38:22 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:22 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:22 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:22 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-01-07 09:38:22 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-01-07 09:38:22 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-01-07 09:38:22 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-01-07 09:38:22 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:22 INFO  [main] Login_page - Entered UserName is :Check
+2025-01-07 09:38:22 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:22 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:25 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:25 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-01-07 09:38:25 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:25 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:25 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:25 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-01-07 09:38:25 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-01-07 09:38:25 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-01-07 09:38:25 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-01-07 09:38:25 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:25 INFO  [main] Login_page - Entered UserName is :Check
+2025-01-07 09:38:25 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:25 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:28 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:28 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-01-07 09:38:28 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:28 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:28 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:28 ERROR [main] Login_Test_Data - Login Failed for User: Check
+2025-01-07 09:38:28 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-01-07 09:38:28 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-01-07 09:38:28 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-01-07 09:38:28 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:28 INFO  [main] Login_page - Entered UserName is :Check
+2025-01-07 09:38:28 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:29 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:32 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:32 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-01-07 09:38:32 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:32 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:32 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:32 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-01-07 09:38:32 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-01-07 09:38:32 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-01-07 09:38:32 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-01-07 09:38:32 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:32 INFO  [main] Login_page - Entered UserName is :Check
+2025-01-07 09:38:32 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:32 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:35 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:35 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-01-07 09:38:35 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:35 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:35 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:35 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-01-07 09:38:35 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-01-07 09:38:35 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-01-07 09:38:35 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-01-07 09:38:35 INFO  [main] Login_page - Login Method Called
+2025-01-07 09:38:35 INFO  [main] Login_page - Entered UserName is :Check
+2025-01-07 09:38:35 INFO  [main] Login_page - Password Entered
+2025-01-07 09:38:35 INFO  [main] Login_page - Submit Button Clicked
+2025-01-07 09:38:38 INFO  [main] Login_page - Login Failed
+2025-01-07 09:38:38 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-01-07 09:38:38 INFO  [main] Login_page - This is failed test text
+2025-01-07 09:38:38 INFO  [main] Login_page - This is failed test text 2
+2025-01-07 09:38:38 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-01-07 09:38:38 INFO  [main] Login_Test_Data - Account Disable Due to Maximum login Attemps for User:Check

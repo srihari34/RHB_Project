@@ -1,0 +1,15 @@
+2025-08-29 18:58:42 INFO  [main] Base_Class - Application Started
+2025-08-29 18:58:42 INFO  [main] Base_Class - ===================
+2025-08-29 18:58:47 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (c93b1a28-9c7d-4bab-b18c-4e7ace045616)
+2025-08-29 18:58:47 INFO  [main] Base_Class - Browser Got Opened
+2025-08-29 18:58:48 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-08-29 18:58:48 INFO  [main] Base_Class - Tear Up is Done
+2025-08-29 18:58:48 INFO  [main] Login - Login Test Cases Started
+2025-08-29 18:58:48 INFO  [main] Login - Login_Page Object Created
+2025-08-29 18:58:48 INFO  [main] Login - Login Page Method call
+2025-08-29 18:58:48 INFO  [main] Login_page - Login Method Called
+2025-08-29 18:58:49 INFO  [main] Login_page - Entered UserName is :Approver
+2025-08-29 18:58:49 INFO  [main] Login_page - Password Entered
+2025-08-29 18:58:49 INFO  [main] Login_page - Submit Button Clicked
+2025-08-29 18:58:49 INFO  [main] Login_page - Login SuccessFull
+2025-08-29 18:58:49 INFO  [main] Login - Login Test Completed Sucessfully

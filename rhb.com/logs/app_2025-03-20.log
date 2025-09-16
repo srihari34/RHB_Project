@@ -1,0 +1,413 @@
+2025-03-20 09:48:09 INFO  [main] Base_Class - Application Started
+2025-03-20 09:48:09 INFO  [main] Base_Class - ===================
+2025-03-20 09:48:14 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (d45a0ac6-fdbb-4331-bde2-dbd8249601c3)
+2025-03-20 09:48:14 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 09:48:14 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 09:48:14 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 09:48:15 INFO  [main] Login - Login Test Cases Started
+2025-03-20 09:48:15 INFO  [main] Login - Login_Page Object Created
+2025-03-20 09:48:15 INFO  [main] Login - Login Page Method call
+2025-03-20 09:48:15 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:15 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 09:48:15 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:16 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:16 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 09:48:16 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 09:48:16 INFO  [main] Login_Test_Data - This is logout method for Main User
+2025-03-20 09:48:16 INFO  [main] Login_page - This is logout method
+2025-03-20 09:48:16 INFO  [main] Login_page - Is ProfileDropdown displayed? true
+2025-03-20 09:48:16 INFO  [main] Login_page - Is ProfileDropdown enabled? true
+2025-03-20 09:48:16 INFO  [main] Login_page - Approver Approver
+2025-03-20 09:48:16 INFO  [main] Login_page - Logout Success
+2025-03-20 09:48:16 INFO  [main] Login_Test_Data - Logout Method Called
+2025-03-20 09:48:16 INFO  [main] Login_Test_Data - Main User Logged Out Success
+2025-03-20 09:48:17 INFO  [main] Login_Test_Data - Login Test Started
+2025-03-20 09:48:17 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver1
+2025-03-20 09:48:17 INFO  [main] Login_Test_Data - Attempting login for user: Approver1
+2025-03-20 09:48:17 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:17 INFO  [main] Login_page - Entered UserName is :Approver1
+2025-03-20 09:48:17 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:17 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:20 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:20 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:20 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:20 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:20 INFO  [main] Login_Test_Data - Expected error message matched for user: Approver1
+2025-03-20 09:48:20 INFO  [main] Login_Test_Data - Invalid user name or password or Deactivated.
+2025-03-20 09:48:20 INFO  [main] Login_Test_Data - Login Test Started
+2025-03-20 09:48:20 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver
+2025-03-20 09:48:20 INFO  [main] Login_Test_Data - Attempting login for user: Approver
+2025-03-20 09:48:20 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:20 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 09:48:20 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:20 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:23 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:23 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:23 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:23 INFO  [main] Login_page - Invalid user name or password.
+2025-03-20 09:48:23 INFO  [main] Login_Test_Data - Expected error message matched for user: Approver
+2025-03-20 09:48:23 INFO  [main] Login_Test_Data - Invalid user name or password.
+2025-03-20 09:48:23 INFO  [main] Login_Test_Data - Login Test Started
+2025-03-20 09:48:23 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver1
+2025-03-20 09:48:23 INFO  [main] Login_Test_Data - Attempting login for user: Approver1
+2025-03-20 09:48:23 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:23 INFO  [main] Login_page - Entered UserName is :Approver1
+2025-03-20 09:48:23 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:23 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:26 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:26 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:26 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:26 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:26 INFO  [main] Login_Test_Data - Expected error message matched for user: Approver1
+2025-03-20 09:48:26 INFO  [main] Login_Test_Data - Invalid user name or password or Deactivated.
+2025-03-20 09:48:26 INFO  [main] Login_Test_Data - Login Test Started
+2025-03-20 09:48:26 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Approver
+2025-03-20 09:48:26 INFO  [main] Login_Test_Data - Attempting login for user: Approver
+2025-03-20 09:48:26 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:26 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 09:48:26 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:27 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:27 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 09:48:36 INFO  [main] Login_Test_Data - Login Success for User :Approver
+2025-03-20 09:48:39 INFO  [main] Login_page - This is logout method
+2025-03-20 09:48:39 INFO  [main] Login_page - Is ProfileDropdown displayed? true
+2025-03-20 09:48:39 INFO  [main] Login_page - Is ProfileDropdown enabled? true
+2025-03-20 09:48:39 INFO  [main] Login_page - Approver Approver
+2025-03-20 09:48:40 INFO  [main] Login_page - Logout Success
+2025-03-20 09:48:40 INFO  [main] Login_Test_Data - Test User Logged Out Success
+2025-03-20 09:48:40 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-03-20 09:48:40 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-03-20 09:48:40 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-03-20 09:48:40 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:40 INFO  [main] Login_page - Entered UserName is :Check
+2025-03-20 09:48:40 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:40 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:43 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:43 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-03-20 09:48:43 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:43 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:43 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:43 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-03-20 09:48:43 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-03-20 09:48:43 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-03-20 09:48:43 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-03-20 09:48:43 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:43 INFO  [main] Login_page - Entered UserName is :Check
+2025-03-20 09:48:43 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:43 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:46 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:46 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-03-20 09:48:46 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:46 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:46 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:46 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-03-20 09:48:46 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-03-20 09:48:46 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-03-20 09:48:46 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-03-20 09:48:46 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:46 INFO  [main] Login_page - Entered UserName is :Check
+2025-03-20 09:48:46 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:46 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:49 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:49 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-03-20 09:48:49 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:50 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:50 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:50 ERROR [main] Login_Test_Data - Login Failed for User: Check
+2025-03-20 09:48:50 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-03-20 09:48:50 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-03-20 09:48:50 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-03-20 09:48:50 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:50 INFO  [main] Login_page - Entered UserName is :Check
+2025-03-20 09:48:50 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:50 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:53 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:53 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-03-20 09:48:53 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:53 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:53 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:53 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-03-20 09:48:53 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-03-20 09:48:53 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-03-20 09:48:53 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-03-20 09:48:53 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:53 INFO  [main] Login_page - Entered UserName is :Check
+2025-03-20 09:48:53 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:53 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:56 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:56 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-03-20 09:48:56 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:56 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:56 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:56 ERROR [main] Login_Test_Data - Expected error Not message matched for user: Check
+2025-03-20 09:48:56 INFO  [main] Login_Test_Data - BlockLoginCredentials
+2025-03-20 09:48:56 INFO  [main] Login_Test_Data - Login_Page Object Created for User :Check
+2025-03-20 09:48:56 INFO  [main] Login_Test_Data - Attempting login for user: Check
+2025-03-20 09:48:56 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:56 INFO  [main] Login_page - Entered UserName is :Check
+2025-03-20 09:48:56 INFO  [main] Login_page - Password Entered
+2025-03-20 09:48:56 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:48:59 INFO  [main] Login_page - Login Failed
+2025-03-20 09:48:59 INFO  [main] Login_Test_Data - This is else block for check user fail
+2025-03-20 09:48:59 INFO  [main] Login_page - This is failed test text
+2025-03-20 09:48:59 INFO  [main] Login_page - This is failed test text 2
+2025-03-20 09:48:59 INFO  [main] Login_page - Invalid user name or password or Deactivated.
+2025-03-20 09:48:59 INFO  [main] Login_Test_Data - Account Disable Due to Maximum login Attemps for User:Check
+2025-03-20 09:48:59 INFO  [main] Login_Test_Data - This is extra method for main user start
+2025-03-20 09:48:59 INFO  [main] Login - Login Test Cases Started
+2025-03-20 09:48:59 INFO  [main] Login - Login_Page Object Created
+2025-03-20 09:48:59 INFO  [main] Login - Login Page Method call
+2025-03-20 09:48:59 INFO  [main] Login_page - Login Method Called
+2025-03-20 09:48:59 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 09:49:00 INFO  [main] Login_page - Password Entered
+2025-03-20 09:49:00 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 09:49:00 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 09:49:00 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 09:49:00 INFO  [main] Login_Test_Data - This is extra method for main user ended
+2025-03-20 11:12:47 INFO  [main] Base_Class - Application Started
+2025-03-20 11:12:47 INFO  [main] Base_Class - ===================
+2025-03-20 11:12:52 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (394d5314-43b7-407f-a317-50c716217885)
+2025-03-20 11:12:52 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 11:12:52 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 11:12:52 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 11:12:52 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 11:12:55 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 11:13:57 INFO  [main] Base_Class - Application Started
+2025-03-20 11:13:57 INFO  [main] Base_Class - ===================
+2025-03-20 11:14:01 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (19ae98bc-4d38-4b8e-8e7f-cebef9ee0bca)
+2025-03-20 11:14:01 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 11:14:01 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 11:14:01 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 11:14:02 INFO  [main] Login - Login Test Cases Started
+2025-03-20 11:14:02 INFO  [main] Login - Login_Page Object Created
+2025-03-20 11:14:02 INFO  [main] Login - Login Page Method call
+2025-03-20 11:14:02 INFO  [main] Login_page - Login Method Called
+2025-03-20 11:14:02 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 11:14:02 INFO  [main] Login_page - Password Entered
+2025-03-20 11:14:03 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 11:14:03 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 11:14:03 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 11:14:03 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 11:14:04 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (19ae98bc-4d38-4b8e-8e7f-cebef9ee0bca)] -> name: name]
+2025-03-20 11:14:04 INFO  [main] Access_Permissions_page - description
+2025-03-20 11:14:06 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 11:14:06 INFO  [main] Access_Permissions_page - THis is message New Role
+2025-03-20 12:26:07 INFO  [main] Base_Class - Application Started
+2025-03-20 12:26:07 INFO  [main] Base_Class - ===================
+2025-03-20 12:26:13 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (e4bca68f-b47d-44ed-ac07-8bb8fca00e5c)
+2025-03-20 12:26:13 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:26:13 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:26:13 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:26:14 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:26:14 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:26:14 INFO  [main] Login - Login Page Method call
+2025-03-20 12:26:14 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:26:15 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:26:15 INFO  [main] Login_page - Password Entered
+2025-03-20 12:26:16 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:26:16 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 12:26:16 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 12:26:16 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:26:16 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:26:17 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (e4bca68f-b47d-44ed-ac07-8bb8fca00e5c)] -> name: name]
+2025-03-20 12:26:17 INFO  [main] Access_Permissions_page - description
+2025-03-20 12:26:19 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 12:26:19 INFO  [main] Access_Permissions_page - This is message New Role
+2025-03-20 12:31:30 INFO  [main] Base_Class - Application Started
+2025-03-20 12:31:30 INFO  [main] Base_Class - ===================
+2025-03-20 12:31:35 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (6de09151-d996-45f1-b351-c71c9ae8a564)
+2025-03-20 12:31:35 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:31:35 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:31:35 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:31:36 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:31:36 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:31:36 INFO  [main] Login - Login Page Method call
+2025-03-20 12:31:36 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:31:36 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:31:36 INFO  [main] Login_page - Password Entered
+2025-03-20 12:31:37 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:31:40 INFO  [main] Login_page - Login Failed
+2025-03-20 12:31:40 ERROR [main] Login - Login Test Failed for User : Approver
+java.lang.AssertionError: Login Failed For User : Approver expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at test_case.Login.Login_Data(Login.java:38) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-20 12:31:41 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:31:41 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:32:07 INFO  [main] Base_Class - Application Started
+2025-03-20 12:32:07 INFO  [main] Base_Class - ===================
+2025-03-20 12:32:12 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (99c48d37-fef8-4ac6-9f72-87aa9c6e5925)
+2025-03-20 12:32:12 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:32:12 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:32:12 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:32:13 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:32:13 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:32:13 INFO  [main] Login - Login Page Method call
+2025-03-20 12:32:13 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:32:13 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:32:13 INFO  [main] Login_page - Password Entered
+2025-03-20 12:32:14 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:32:14 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 12:32:14 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 12:32:14 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:32:14 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:32:15 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (99c48d37-fef8-4ac6-9f72-87aa9c6e5925)] -> name: name]
+2025-03-20 12:32:15 INFO  [main] Access_Permissions_page - description
+2025-03-20 12:32:17 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 12:32:18 INFO  [main] Access_Permissions_page - This is message New Role
+2025-03-20 12:33:26 INFO  [main] Base_Class - Application Started
+2025-03-20 12:33:26 INFO  [main] Base_Class - ===================
+2025-03-20 12:33:30 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (020241d9-e43a-4ef6-b902-585a6a6c769c)
+2025-03-20 12:33:30 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:33:31 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:33:31 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:33:32 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:33:32 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:33:32 INFO  [main] Login - Login Page Method call
+2025-03-20 12:33:32 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:33:32 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:33:32 INFO  [main] Login_page - Password Entered
+2025-03-20 12:33:33 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:33:33 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 12:33:33 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 12:33:33 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:33:33 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:33:34 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (020241d9-e43a-4ef6-b902-585a6a6c769c)] -> name: name]
+2025-03-20 12:33:34 INFO  [main] Access_Permissions_page - description
+2025-03-20 12:33:36 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 12:33:57 INFO  [main] Base_Class - Application Started
+2025-03-20 12:33:57 INFO  [main] Base_Class - ===================
+2025-03-20 12:34:02 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (66461020-3272-4a22-9597-2fb5b607e128)
+2025-03-20 12:34:02 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:34:02 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:34:02 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:34:03 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:34:03 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:34:03 INFO  [main] Login - Login Page Method call
+2025-03-20 12:34:03 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:34:03 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:34:03 INFO  [main] Login_page - Password Entered
+2025-03-20 12:34:03 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:34:06 INFO  [main] Login_page - Login Failed
+2025-03-20 12:34:06 ERROR [main] Login - Login Test Failed for User : Approver
+java.lang.AssertionError: Login Failed For User : Approver expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at test_case.Login.Login_Data(Login.java:38) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-20 12:35:17 INFO  [main] Base_Class - Application Started
+2025-03-20 12:35:17 INFO  [main] Base_Class - ===================
+2025-03-20 12:35:22 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (c9fd6af4-1c94-4d32-9138-525f4734d720)
+2025-03-20 12:35:22 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:35:22 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:35:22 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:35:23 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:35:23 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:35:23 INFO  [main] Login - Login Page Method call
+2025-03-20 12:35:23 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:35:23 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:35:23 INFO  [main] Login_page - Password Entered
+2025-03-20 12:35:24 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:35:24 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 12:35:24 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 12:35:24 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:35:24 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:35:27 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 12:35:47 INFO  [main] Base_Class - Application Started
+2025-03-20 12:35:47 INFO  [main] Base_Class - ===================
+2025-03-20 12:35:52 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (cd18c9ce-d0bc-4c01-81a3-30221ee2e469)
+2025-03-20 12:35:52 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:35:52 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:35:52 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:35:53 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:35:53 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:35:53 INFO  [main] Login - Login Page Method call
+2025-03-20 12:35:53 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:35:53 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:35:53 INFO  [main] Login_page - Password Entered
+2025-03-20 12:35:54 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:35:54 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 12:35:54 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 12:35:54 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:35:54 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:35:55 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (cd18c9ce-d0bc-4c01-81a3-30221ee2e469)] -> name: name]
+2025-03-20 12:35:55 INFO  [main] Access_Permissions_page - description
+2025-03-20 12:35:57 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 12:37:36 INFO  [main] Base_Class - Application Started
+2025-03-20 12:37:36 INFO  [main] Base_Class - ===================
+2025-03-20 12:37:40 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (cac1c9f9-9de3-4d7d-8686-80dc6dcc281b)
+2025-03-20 12:37:40 INFO  [main] Base_Class - Browser Got Opened
+2025-03-20 12:37:41 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-03-20 12:37:41 INFO  [main] Base_Class - Tear Up is Done
+2025-03-20 12:37:41 INFO  [main] Login - Login Test Cases Started
+2025-03-20 12:37:41 INFO  [main] Login - Login_Page Object Created
+2025-03-20 12:37:41 INFO  [main] Login - Login Page Method call
+2025-03-20 12:37:41 INFO  [main] Login_page - Login Method Called
+2025-03-20 12:37:42 INFO  [main] Login_page - Entered UserName is :Approver
+2025-03-20 12:37:42 INFO  [main] Login_page - Password Entered
+2025-03-20 12:37:43 INFO  [main] Login_page - Submit Button Clicked
+2025-03-20 12:37:43 INFO  [main] Login_page - Login SuccessFull
+2025-03-20 12:37:43 INFO  [main] Login - Login Test Completed Sucessfully
+2025-03-20 12:37:43 INFO  [main] Access_permissions - Access Permissions link Click
+2025-03-20 12:37:43 INFO  [main] Access_permissions - This is Add Group Method
+2025-03-20 12:37:44 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (cac1c9f9-9de3-4d7d-8686-80dc6dcc281b)] -> name: name]
+2025-03-20 12:37:44 INFO  [main] Access_Permissions_page - description
+2025-03-20 12:37:45 INFO  [main] Access_permissions - This is Add Role Method
+2025-03-20 12:37:46 INFO  [main] Access_Permissions_page - This is message New Role

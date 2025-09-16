@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="true"/>
+		<list key="findhistory">
+			<item value="This is failed test text"/>
+			<item value="This is logout method"/>
+			<item value="This is else block for check user fail"/>
+			<item value="Login Failed For User"/>
+			<item value="DisableUserTest"/>
+			<item value="Invalid user name or password."/>
+			<item value="Login Failed for User:"/>
+			<item value="logindata"/>
+			<item value="Login Test Started"/>
+			<item value="Test User Logged Out Failed"/>
+			<item value="thread"/>
+			<item value="Login Failed for User: Checker"/>
+			<item value="Login Failed for User: Checker\"/>
+			<item value="logout"/>
+			<item value="Logout Fail"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,40 @@
+2025-05-01 17:23:26 INFO  [main] Base_Class - Application Started
+2025-05-01 17:23:26 INFO  [main] Base_Class - ===================
+2025-05-01 17:23:31 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (17e71dd7-9875-4e27-9d64-0407a3f7bc33)
+2025-05-01 17:23:31 INFO  [main] Base_Class - Browser Got Opened
+2025-05-01 17:23:32 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-05-01 17:23:32 INFO  [main] Base_Class - Tear Up is Done
+2025-05-01 17:23:33 INFO  [main] Login - Login Test Cases Started
+2025-05-01 17:23:33 INFO  [main] Login - Login_Page Object Created
+2025-05-01 17:23:33 INFO  [main] Login - Login Page Method call
+2025-05-01 17:23:33 INFO  [main] Login_page - Login Method Called
+2025-05-01 17:23:33 INFO  [main] Login_page - Entered UserName is :Approver
+2025-05-01 17:23:33 INFO  [main] Login_page - Password Entered
+2025-05-01 17:23:34 INFO  [main] Login_page - Submit Button Clicked
+2025-05-01 17:23:34 INFO  [main] Login_page - Login SuccessFull
+2025-05-01 17:23:34 INFO  [main] Login - Login Test Completed Sucessfully
+2025-05-01 17:23:34 INFO  [main] Access_permissions - Access Permissions link Click
+2025-05-01 17:23:34 INFO  [main] Access_permissions - This is Add Group Method
+2025-05-01 17:23:35 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (17e71dd7-9875-4e27-9d64-0407a3f7bc33)] -> name: name]
+2025-05-01 17:23:35 INFO  [main] Access_Permissions_page - description
+2025-05-01 17:23:37 INFO  [main] Access_permissions - This is Add Role Method
+2025-05-01 17:25:25 INFO  [main] Base_Class - Application Started
+2025-05-01 17:25:25 INFO  [main] Base_Class - ===================
+2025-05-01 17:25:29 INFO  [main] Base_Class - FireFoxDriver Object is Created  FirefoxDriver: firefox on windows (6d77dced-f29c-4b89-b291-922fc6a2b6a2)
+2025-05-01 17:25:29 INFO  [main] Base_Class - Browser Got Opened
+2025-05-01 17:25:29 INFO  [main] Base_Class - url Called  http://192.168.2.27:9091/
+2025-05-01 17:25:29 INFO  [main] Base_Class - Tear Up is Done
+2025-05-01 17:25:30 INFO  [main] Login - Login Test Cases Started
+2025-05-01 17:25:30 INFO  [main] Login - Login_Page Object Created
+2025-05-01 17:25:30 INFO  [main] Login - Login Page Method call
+2025-05-01 17:25:30 INFO  [main] Login_page - Login Method Called
+2025-05-01 17:25:30 INFO  [main] Login_page - Entered UserName is :Approver
+2025-05-01 17:25:30 INFO  [main] Login_page - Password Entered
+2025-05-01 17:25:31 INFO  [main] Login_page - Submit Button Clicked
+2025-05-01 17:25:31 INFO  [main] Login_page - Login SuccessFull
+2025-05-01 17:25:31 INFO  [main] Login - Login Test Completed Sucessfully
+2025-05-01 17:25:31 INFO  [main] Access_permissions - Access Permissions link Click
+2025-05-01 17:25:31 INFO  [main] Access_permissions - This is Add Group Method
+2025-05-01 17:25:32 INFO  [main] Access_Permissions_page - [[FirefoxDriver: firefox on windows (6d77dced-f29c-4b89-b291-922fc6a2b6a2)] -> name: name]
+2025-05-01 17:25:32 INFO  [main] Access_Permissions_page - description
+2025-05-01 17:25:33 INFO  [main] Access_permissions - This is Add Role Method

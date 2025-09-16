@@ -1,0 +1,9 @@
+2025-02-13 09:38:16 INFO  [main] Login - Login Test Cases Started
+2025-02-13 09:38:16 INFO  [main] Login - Login_Page Object Created
+2025-02-13 09:38:16 INFO  [main] Login - Login Page Method call
+2025-02-13 09:38:16 INFO  [main] Login_page - Login Method Called
+2025-02-13 09:38:16 INFO  [main] Login_page - Entered UserName is :Approver
+2025-02-13 09:38:16 INFO  [main] Login_page - Password Entered
+2025-02-13 09:38:17 INFO  [main] Login_page - Submit Button Clicked
+2025-02-13 09:38:17 INFO  [main] Login_page - Login SuccessFull
+2025-02-13 09:38:17 INFO  [main] Login - Login Test Completed Sucessfully
